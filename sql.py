@@ -43,5 +43,5 @@ def add_user(mas):  # Принимает массив параметров в ф
     return res
     # Регистрация людей в бд
 
-
+#commit 2
 con.commit()
